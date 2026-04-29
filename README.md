@@ -62,7 +62,6 @@ Cloud + IoT Integration • Infrastructure Monitoring • Energy-Tech Solutions
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thomastundeo)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thomastunde)
 
-📧 Reach out: your.email@example.com
 
 ---
 
