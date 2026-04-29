@@ -1,87 +1,71 @@
-# 👋 Hi, I’m Thomas Tunde
+<div align="center">
+
+# Hello World, I'm Thomas Tunde 😊
 
 ### Web Developer @ Pluto Cloud Computing
 
-Building scalable web platforms for cloud & digital infrastructure
+**Building scalable web platforms for cloud & digital infrastructure**
 
 ---
 
-## ⚡ About Me
+### ⚡ About Me
 
-I’m a web developer focused on creating fast, scalable, and user-friendly applications.
-I specialize in building interfaces that connect users to **cloud systems, real-time data, and digital infrastructure**.
+I'm a passionate web developer focused on creating **fast, scalable, and user-friendly** applications.  
 
-I’m particularly interested in:
+I specialize in interfaces that connect users to **cloud systems**, **real-time data**, and **digital infrastructure**.
 
-* Cloud-based platforms ☁️
-* IoT data interfaces 📡
-* Real-time dashboards 📊
-* Energy & infrastructure tech ⚡
-
----
-
-## 🛠️ What I Do
-
-* Frontend Development (React, Vite, Modern JS)
-* Responsive & Mobile-First Design
-* API Integration & Data Handling
-* Dashboard & Admin Panel Development
-* Cloud-based Web Deployment
+**Particularly interested in:**
+- Cloud-based platforms ☁️
+- IoT data interfaces 📡
+- Real-time dashboards 📊
+- Energy & infrastructure tech ⚡
 
 ---
 
-## 💼 Experience
+### 🛠️ Technologies & Tools
 
-### Pluto Cloud Computing
-
-**Web Developer**
-
-* Built and optimized company web platforms
-* Working on scalable cloud-based solutions
-* Supporting infrastructure-focused digital products
+**Frontend:** React • Vite • Tailwind CSS • Modern JavaScript  
+**Other:** API Integration • Responsive Design • Data Visualization • Cloud Deployment
 
 ---
 
-## 🚀 Selected Work
+### 💼 Experience
 
-### 🌐 Company Website Revamp
-
-Redesigned and deployed a modern, responsive company website
-→ Focus: performance, UI/UX, scalability
-
-### 📊 Real-Time Dashboard (Concept)
-
-Built a dashboard interface for monitoring live system data
-→ Focus: data visualization & usability
-
-### 🤝 Campus Network Platform (Ongoing)
-
-Designing architecture for a campus-wide connectivity system
-→ Focus: infrastructure + cloud integration
+**Web Developer** @ **Pluto Cloud Computing**  
+- Building and optimizing scalable company web platforms  
+- Working on cloud-based infrastructure solutions  
+- Supporting digital products for real-world systems
 
 ---
 
-## 🎯 What I’m Exploring
+### 🚀 Selected Projects
 
-* Cloud + IoT integration
-* Data visualization systems
-* Infrastructure monitoring platforms
-* Energy-tech digital solutions
+**🌐 Company Website Revamp**  
+Modern, responsive redesign focused on performance and UX
 
----
+**📊 Real-Time Dashboard**  
+Live system monitoring interface with clean data visualization
 
-## 🤝 Let’s Connect
-
-I’m open to:
-
-* Collaborations
-* Tech discussions
-* Opportunities in cloud & infrastructure
-
-📩 LinkedIn: @thomastundeo
-💻 GitHub: @thomastundeo
-📧 X: @thomastunde
+**🤝 Campus Network Platform** (Ongoing)  
+Architecture design for campus-wide connectivity + cloud integration
 
 ---
 
-⭐ “Building systems that bridge technology and real-world infrastructure.”
+### 🎯 Currently Exploring
+Cloud + IoT Integration • Infrastructure Monitoring • Energy-Tech Solutions
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomastundeo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thomastundeo)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thomastunde)
+
+📧 Reach out: your.email@example.com
+
+---
+
+*"Building systems that bridge technology and real-world infrastructure."*
+
+</div>
