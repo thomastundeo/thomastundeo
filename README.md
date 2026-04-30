@@ -2,7 +2,7 @@
 
 # Hello World, I'm Thomas Tunde 😊
 
-### Web Developer @ Pluto Cloud Computing
+### Software Developer @ Pluto Cloud Computing
 
 **Building scalable web platforms for cloud & digital infrastructure**
 
