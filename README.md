@@ -2,7 +2,7 @@
 
 # Hello World, I'm Thomas Tunde 😊
 
-### Software Developer @ Pluto Cloud Computing
+### Fullstack Software Engineer @ Pluto Cloud Computing
 
 **Building scalable web platforms for cloud & digital infrastructure**
 
@@ -30,15 +30,15 @@ I'm a passionate software developer focused on creating **fast, scalable, and us
 
 ### 💼 Experience
 
-**Software Developer** @ **Pluto Cloud Computing**  
-- Building and optimizing scalable company web platforms  
+**Fullstack Software Engineer** @ **Pluto Cloud Computing**  
+- Building and optimizing scalable company platforms  
 - Working on cloud-based infrastructure solutions  
 - Supporting digital products for real-world systems
 
 
 
 ### 🎯 Currently Exploring
-Cloud Infrastructure Building
+Cloud Computing
 
 ---
 
